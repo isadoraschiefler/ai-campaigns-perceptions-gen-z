@@ -1,0 +1,151 @@
+id,age,gender,region,education,instagram,tiktok,whatsapp,youtube,facebook,x,threads,telegram,pinterest,snapchat,linkedin,bluesky,reddit,occupation,ai_exposure,ai_influence,ai_experience,ai_technical,ai_innovative,human_authenticity,ai_authenticity,no_difference,ai_trust,attraction_factor,interaction_pref,aesthetic_trust,authenticity_factor,img_authenticity,img_humanness,img_connection,img_trust
+1,28,Male,Central,Undergraduate degree,1,0,1,1,0,0,0,0,0,0,0,0,0,Full-time employment,Not sure,3,4,4,4,5,2,4,3,1,2,2,1,1,1,2,2
+2,24,Female,Central,Undergraduate degree,1,0,1,1,0,1,1,1,0,0,0,0,0,Full-time employment,Not sure,4,5,1,3,3,1,4,2,1,3,2,3,5,5,5,3
+3,26,Female,Central,Postgraduate incomplete,1,0,1,1,0,1,0,1,0,0,0,0,0,Full-time employment,Not sure,2,3,4,3,5,2,3,2,3,2,2,3,2,3,1,3
+4,23,Female,Mainland,Undergraduate incomplete,1,1,1,1,1,1,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,3,4,1,5,1,2,3,2,2,2,1,1,1,1,1
+5,21,Female,Central,Undergraduate incomplete,1,1,1,1,0,0,0,0,1,1,0,0,0,Student (not employed),"Yes, with multiple brands",3,2,4,2,5,1,1,3,2,2,2,1,1,1,1,1
+6,21,Female,Mainland,Postgraduate incomplete,1,1,1,1,0,0,0,0,1,0,0,0,0,Student (not employed),Not sure,1,3,3,4,4,4,3,2,3,3,2,2,1,1,1,2
+7,22,Male,Central,Undergraduate incomplete,1,1,1,1,0,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",2,4,4,3,5,2,1,3,2,2,2,3,1,1,1,1
+8,27,Male,Central,Postgraduate incomplete,1,0,1,1,1,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",3,4,5,4,5,2,1,3,2,2,2,3,4,2,4,5
+9,26,Female,North,Postgraduate incomplete,1,1,1,1,1,1,0,0,1,0,0,0,0,Full-time employment,"Yes, with multiple brands",3,4,4,3,5,1,3,3,2,2,2,3,4,2,2,3
+10,23,Female,Mainland,Undergraduate degree,1,0,1,0,1,0,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,2,4,2,5,2,3,1,2,2,2,1,1,1,2,2
+11,28,Male,Mainland,Undergraduate degree,1,1,1,1,1,1,1,1,0,1,0,0,0,Full-time employment,"Yes, with multiple brands",1,3,5,2,5,2,1,3,3,3,3,2,1,2,3,3
+12,26,Female,Mainland,Postgraduate degree,1,0,0,0,0,0,1,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",2,2,5,2,5,1,1,2,2,2,2,1,1,1,1,1
+13,25,Female,Central,Postgraduate incomplete,1,1,1,1,0,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",1,3,5,4,5,2,3,3,2,2,2,3,1,1,1,1
+14,27,Female,Central,Undergraduate degree,1,0,1,1,0,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",3,2,5,3,5,2,1,3,3,2,2,3,1,1,1,1
+15,25,Male,South,Undergraduate incomplete,1,0,1,1,1,0,0,1,0,0,1,0,0,Full-time employment,"Yes, with multiple brands",4,4,4,5,5,2,1,3,3,2,2,1,3,2,2,3
+16,26,Female,Mainland,Undergraduate degree,1,1,1,1,1,1,0,0,1,0,1,0,0,Part-time employment,"Yes, with multiple brands",4,2,4,2,5,3,2,2,3,2,2,3,1,2,2,2
+17,23,Female,East,Undergraduate degree,1,1,1,1,0,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",2,2,3,1,4,1,2,1,3,3,4,4,1,1,1,1
+18,27,Female,East,Undergraduate degree,1,1,1,1,0,0,1,0,1,0,1,0,0,Working student,Not sure,2,2,4,2,5,1,1,2,3,2,2,3,1,1,1,2
+19,26,Female,North,Undergraduate degree,1,0,1,1,0,0,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",1,4,1,3,4,1,2,3,5,3,3,4,2,1,1,3
+20,25,Female,Mainland,Undergraduate degree,1,1,1,1,0,1,1,0,1,0,1,0,0,Part-time employment,"Yes, with multiple brands",4,4,2,3,2,2,4,3,3,3,2,3,2,2,2,3
+21,20,Female,East,Undergraduate incomplete,1,1,1,1,0,1,0,0,1,0,1,0,0,Student (not employed),"Yes, with multiple brands",2,4,4,3,5,1,4,1,1,2,2,1,3,2,2,3
+22,19,Male,Central,High school diploma,1,1,1,1,0,1,0,0,0,1,0,0,0,Student (not employed),"Yes, with multiple brands",3,4,4,3,5,2,2,3,1,2,3,1,2,2,2,2
+23,23,Female,Central,High school diploma,1,1,1,1,1,0,1,1,0,0,0,0,0,Student (not employed),"Yes, with multiple brands",3,3,3,4,3,4,3,2,3,2,2,1,2,1,3,2
+24,18,Female,North,Undergraduate incomplete,1,1,1,1,0,0,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,3,3,3,5,2,2,1,3,2,2,1,1,1,1,1
+25,21,Female,Central,High school diploma,1,1,1,1,0,1,0,0,1,0,1,0,0,Working student,"Yes, with multiple brands",1,1,4,1,5,1,1,1,3,2,2,2,2,3,2,3
+26,28,Female,Central,Undergraduate degree,1,1,1,1,1,1,0,0,0,1,1,0,0,Unemployed (seeking work),"Yes, with multiple brands",4,4,2,3,5,3,4,3,2,1,3,1,1,1,1,1
+27,25,Female,East,Technical high school diploma,1,1,1,1,1,0,1,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,2,5,1,5,1,1,1,2,2,2,1,1,1,1,1
+28,18,Male,Central,Undergraduate incomplete,1,1,1,1,0,1,1,0,0,0,0,0,0,Student (not employed),Not sure,1,2,2,1,4,1,2,1,3,3,2,3,1,1,1,1
+29,18,Male,Mainland,Undergraduate incomplete,1,0,1,1,0,1,0,0,0,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,1,5,1,5,1,1,1,2,2,2,2,1,1,2,2
+30,28,Female,Mainland,Undergraduate degree,1,1,1,1,0,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,2,4,2,4,1,3,3,3,1,2,3,2,2,1,3
+31,20,Female,Central,Undergraduate incomplete,1,1,1,1,0,1,0,0,1,0,0,0,0,Working student,"Yes, with multiple brands",1,1,3,1,5,1,1,1,2,2,2,1,2,1,2,3
+32,27,Female,Mainland,Undergraduate incomplete,1,0,1,0,0,0,0,0,0,0,0,0,0,Full-time employment,Not sure,5,5,1,1,1,1,1,5,1,1,2,3,1,1,1,1
+33,20,Female,North,Undergraduate incomplete,1,1,1,0,0,0,0,0,0,0,0,0,0,Student (not employed),"Yes, with multiple brands",4,4,3,4,2,1,1,3,3,2,2,1,3,3,3,3
+34,18,Female,North,Undergraduate incomplete,1,1,1,1,0,0,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,2,4,3,5,2,2,2,2,2,2,2,1,1,1,2
+35,18,Male,Mainland,Undergraduate incomplete,1,1,1,1,0,0,0,0,0,0,0,0,0,Student (not employed),"Yes, with one brand",3,4,1,4,5,4,3,3,3,2,2,3,1,1,1,1
+36,25,Male,North,Undergraduate degree,1,1,1,1,1,1,0,1,0,0,1,0,0,Unemployed (seeking work),Not sure,5,5,3,4,5,1,1,3,2,2,2,1,5,5,5,5
+37,27,Female,North,Undergraduate degree,1,1,1,0,1,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,2,3,2,5,2,2,2,3,2,2,1,1,1,1,1
+38,26,Female,Mainland,Postgraduate incomplete,1,0,1,1,0,1,0,0,0,0,0,0,0,Student (not employed),"Yes, with multiple brands",2,2,4,2,5,2,1,2,3,2,2,3,1,1,1,2
+39,22,Male,South,Undergraduate incomplete,1,0,1,1,0,1,0,1,0,0,0,0,0,Intern / Trainee,"Yes, with multiple brands",4,3,5,2,5,2,1,3,2,2,2,1,4,4,4,4
+40,24,Female,Mainland,Master’s incomplete,1,0,1,1,0,1,0,1,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,2,5,2,5,1,1,3,3,2,2,3,1,1,1,1
+41,25,Female,Central,Undergraduate degree,1,1,1,1,1,0,0,1,1,0,1,0,0,Part-time employment,"Yes, with one brand",3,3,4,3,5,2,2,2,2,2,2,1,5,5,5,5
+42,20,Female,Central,Undergraduate incomplete,1,1,1,1,0,0,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,2,4,1,5,1,2,2,3,2,2,3,1,1,1,1
+43,18,Female,North,High school diploma,1,1,1,1,0,1,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,3,2,1,5,1,1,2,2,2,2,3,1,1,1,3
+44,24,Female,Central,Undergraduate degree,1,1,1,1,0,1,0,0,1,0,0,0,0,Full-time employment,"Yes, with multiple brands",5,1,5,1,5,1,1,1,2,2,2,1,1,1,1,1
+45,23,Female,Mainland,Undergraduate incomplete,1,0,1,1,0,0,0,0,1,0,0,0,0,Working student,"Yes, with multiple brands",1,1,5,1,5,1,1,1,2,2,2,1,1,1,1,1
+46,21,Female,North,Undergraduate incomplete,1,1,1,1,1,1,0,1,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,1,1,1,5,1,1,1,2,2,2,1,1,3,1,1
+47,18,Female,Central,Undergraduate incomplete,1,1,1,1,0,1,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",5,1,5,1,5,1,1,1,2,2,2,3,1,1,1,1
+48,20,Non-binary,Central,Undergraduate incomplete,1,0,1,1,0,0,0,1,0,0,1,0,0,Working student,"Yes, with multiple brands",4,1,5,1,5,1,1,1,2,2,2,3,1,1,1,1
+49,26,Prefer not to say,Mainland,Postgraduate incomplete,1,0,1,1,0,1,0,1,1,0,1,0,0,Working student,"Yes, with multiple brands",2,1,4,1,4,1,1,3,3,3,2,5,1,1,1,1
+50,26,Female,Central,Postgraduate incomplete,1,0,1,1,0,1,1,0,0,0,1,0,0,Full-time employment,"Yes, with multiple brands",2,2,5,2,5,1,1,2,2,2,2,1,1,1,1,1
+51,19,Female,Central,Undergraduate incomplete,0,1,1,1,0,1,0,1,1,0,1,0,0,Working student,"Yes, with multiple brands",1,1,4,1,5,1,1,1,2,2,2,1,1,1,1,1
+52,23,Female,Central,Undergraduate incomplete,1,0,1,1,0,0,0,0,1,0,1,0,0,Intern / Trainee,"Yes, with multiple brands",4,1,5,1,5,1,1,1,2,2,2,1,1,1,1,1
+53,21,Female,East,Undergraduate incomplete,1,1,1,1,0,1,0,0,1,0,0,0,0,Working student,"Yes, with multiple brands",5,1,3,1,5,1,1,1,3,2,4,1,1,1,1,1
+54,23,Female,Mainland,Master’s incomplete,1,1,1,1,0,1,0,0,1,0,1,0,0,Working student,"Yes, with multiple brands",2,3,2,3,4,2,1,3,1,3,2,3,3,3,3,3
+55,21,Female,Central,Undergraduate incomplete,1,1,1,1,0,1,0,1,0,0,1,0,0,Working student,"Yes, with multiple brands",2,2,4,2,5,1,1,2,2,2,2,1,1,1,1,2
+56,21,Female,Mainland,Undergraduate incomplete,1,1,1,0,0,1,0,0,1,0,1,0,0,Working student,"Yes, with multiple brands",5,1,5,1,5,1,1,1,2,2,2,1,1,1,1,1
+57,24,Female,East,Undergraduate degree,1,0,1,1,0,0,0,0,1,0,0,0,0,Full-time employment,"Yes, with multiple brands",4,4,2,2,2,2,2,3,1,2,3,3,2,2,2,3
+58,27,Male,Mainland,Postgraduate degree,1,0,1,1,0,0,0,0,0,0,1,0,0,Working student,"Yes, with multiple brands",3,3,3,3,4,2,3,3,3,3,3,3,2,2,2,3
+59,26,Female,Central,Master’s incomplete,1,0,1,1,0,0,0,0,0,0,1,0,0,Student (not employed),"Yes, with multiple brands",1,3,4,3,4,3,3,3,3,1,3,3,2,2,2,3
+60,27,Female,Central,Undergraduate degree,1,0,1,1,0,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",2,2,4,3,5,1,1,2,3,2,2,1,1,1,1,1
+61,28,Female,South,Undergraduate degree,1,1,1,1,1,0,0,0,1,0,1,0,0,Full-time employment,"Yes, with one brand",2,2,2,1,2,1,1,2,2,2,2,3,4,3,4,4
+62,23,Non-binary,East,Undergraduate incomplete,1,1,1,1,0,0,0,0,1,0,0,0,0,Working student,"Yes, with multiple brands",5,1,5,1,5,1,3,1,2,2,2,1,2,1,1,2
+63,22,Male,North,Undergraduate incomplete,1,1,1,1,0,1,0,0,0,0,0,0,0,Working student,"Yes, with multiple brands",2,3,2,4,3,2,1,2,3,3,3,2,1,1,3,3
+64,25,Male,Mainland,Undergraduate degree,1,1,1,1,0,1,0,1,0,0,0,0,0,Part-time employment,"Yes, with multiple brands",3,3,2,4,4,2,3,3,5,3,3,4,2,2,3,3
+65,24,Female,Central,Undergraduate degree,1,1,1,1,0,1,0,0,1,0,0,0,0,Intern / Trainee,"Yes, with multiple brands",5,5,1,5,3,4,3,4,1,1,1,3,2,2,4,4
+66,28,Male,Mainland,Undergraduate degree,1,0,1,1,0,1,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",3,1,4,2,5,2,1,3,3,2,2,3,1,1,1,1
+67,19,Female,South,Undergraduate incomplete,1,1,1,1,0,1,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,1,5,1,5,1,1,1,2,2,2,1,2,1,1,1
+68,22,Female,North,Undergraduate incomplete,1,0,1,1,0,0,0,0,0,0,0,0,0,Student (not employed),"Yes, with multiple brands",3,2,5,3,5,1,1,2,2,2,2,2,1,1,1,1
+69,20,Female,Central,Undergraduate incomplete,1,1,1,0,0,0,0,0,1,0,1,0,0,Intern / Trainee,"Yes, with multiple brands",1,1,5,1,5,1,1,1,2,2,2,1,2,1,2,1
+70,20,Female,Central,Undergraduate incomplete,1,1,1,1,1,0,0,1,1,1,0,0,0,Student (not employed),"Yes, with multiple brands",2,2,4,3,5,2,1,3,3,2,2,1,1,3,1,3
+71,18,Female,Mainland,High school diploma,1,1,1,1,0,0,0,0,0,0,0,0,0,Part-time employment,Not sure,2,2,4,2,5,2,1,2,2,2,3,1,1,1,1,1
+72,28,Male,South,Undergraduate incomplete,0,0,1,1,0,0,0,0,0,0,1,0,0,Full-time employment,"Yes, with multiple brands",1,2,4,2,5,1,2,3,2,2,2,1,2,1,2,2
+73,26,Female,Central,Postgraduate degree,1,1,1,1,1,1,0,1,1,0,0,0,0,Working student,"Yes, with multiple brands",2,3,4,3,4,2,5,3,3,2,2,1,5,4,5,4
+74,28,Female,Central,Undergraduate degree,1,0,1,1,0,0,0,0,1,0,0,0,0,Freelancer / Self-employed (on demand),"Yes, with one brand",1,2,5,1,5,1,1,3,5,3,4,3,1,1,1,1
+75,25,Non-binary,Mainland,Undergraduate degree,1,1,1,1,0,0,0,1,0,1,0,0,0,Full-time employment,Not sure,2,2,4,1,5,1,2,2,5,2,3,2,2,3,3,3
+76,25,Male,Mainland,Undergraduate incomplete,1,1,1,1,0,1,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",1,3,3,2,4,4,3,2,4,2,2,3,1,2,3,3
+77,21,Male,Central,Undergraduate incomplete,1,0,1,1,0,0,0,0,0,0,0,0,0,Working student,"Yes, with multiple brands",4,4,3,4,4,3,1,4,3,3,3,3,1,1,1,1
+78,24,Male,East,Postgraduate degree,1,0,1,1,0,1,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",1,2,4,2,5,2,1,2,3,2,2,1,4,3,3,4
+79,23,Non-binary,South,Undergraduate degree,1,1,1,1,1,1,0,1,1,0,1,1,0,Unemployed (seeking work),"Yes, with multiple brands",5,1,5,1,5,1,1,1,2,2,2,1,1,1,1,1
+80,23,Female,Central,Undergraduate incomplete,1,0,1,1,0,0,0,1,1,0,1,0,0,Working student,"Yes, with multiple brands",3,3,2,2,5,1,1,3,3,2,2,1,2,2,1,3
+81,21,Male,Mainland,Undergraduate incomplete,1,1,1,1,0,1,0,0,0,0,1,0,0,Full-time employment,"Yes, with multiple brands",1,5,2,3,4,1,1,3,3,1,3,2,2,1,1,1
+82,18,Female,Mainland,High school diploma,1,1,1,1,0,1,0,1,1,1,1,0,0,Student (not employed),"Yes, with multiple brands",1,2,4,1,5,1,1,1,2,2,2,1,5,5,4,5
+83,18,Female,Central,Undergraduate incomplete,1,1,1,1,0,0,0,0,1,1,0,0,0,Student (not employed),"Yes, with multiple brands",1,2,4,2,5,2,2,3,2,2,2,3,1,1,1,1
+84,19,Male,Central,High school diploma,1,1,1,0,0,0,0,0,0,0,0,0,0,Student (not employed),"Yes, with multiple brands",2,4,3,4,5,1,2,2,2,2,2,3,2,3,2,3
+85,21,Male,Mainland,Undergraduate incomplete,1,1,1,1,0,1,0,0,0,0,1,0,0,Student (not employed),"Yes, with multiple brands",1,3,4,2,5,2,2,3,3,3,3,1,1,1,1,3
+86,18,Male,Central,High school diploma,1,0,1,1,0,0,0,0,1,0,0,0,0,Working student,"Yes, with multiple brands",3,4,4,3,4,3,2,3,3,3,3,3,3,2,3,4
+87,22,Female,Central,Undergraduate incomplete,1,0,1,1,0,0,0,0,1,0,1,0,0,Working student,"Yes, with multiple brands",3,3,4,3,5,2,2,3,2,2,2,2,2,2,2,2
+88,21,Female,Central,Undergraduate incomplete,1,1,1,1,1,1,0,0,1,0,1,0,0,Working student,"Yes, with multiple brands",2,3,5,2,4,2,2,3,2,2,2,1,2,1,1,2
+89,25,Male,Central,Undergraduate incomplete,1,0,1,1,0,0,0,0,0,0,0,0,0,Working student,Not sure,3,3,3,4,3,3,3,3,5,2,3,5,2,2,3,3
+90,23,Female,Central,Undergraduate degree,1,1,1,1,0,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",4,1,3,1,5,1,1,1,2,2,2,3,1,1,1,2
+91,21,Female,Central,Undergraduate incomplete,1,1,1,0,0,1,0,0,1,0,1,0,0,Intern / Trainee,"Yes, with multiple brands",3,3,4,2,5,2,3,2,2,2,2,1,1,1,1,1
+92,27,Male,North,Undergraduate degree,1,0,0,0,0,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",3,3,3,2,5,1,1,2,3,2,2,3,2,3,3,3
+93,27,Female,East,Postgraduate degree,1,1,1,1,0,0,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",2,2,5,4,5,2,2,2,3,2,2,1,1,1,1,1
+94,19,Female,South,Undergraduate incomplete,1,1,1,1,0,1,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",2,1,5,2,5,1,1,1,2,2,2,1,2,2,2,3
+95,19,Male,Central,High school diploma,1,0,1,1,0,1,0,0,0,0,0,0,0,Not working nor studying,"Yes, with multiple brands",1,3,4,2,5,1,2,1,2,2,2,1,1,1,1,1
+96,28,Male,Central,Undergraduate degree,1,0,1,1,0,0,0,0,0,0,0,0,0,Full-time employment,Not sure,2,2,2,3,2,3,3,3,1,3,3,2,1,1,1,1
+97,19,Female,Central,Undergraduate incomplete,1,0,1,1,1,0,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,2,4,2,5,2,2,2,2,3,2,1,1,1,2,3
+98,27,Male,Central,Undergraduate degree,1,0,1,1,0,0,0,0,0,0,1,0,1,Full-time employment,"Yes, with multiple brands",4,1,5,1,4,1,1,1,3,2,1,3,2,1,2,1
+99,25,Female,South,Undergraduate incomplete,1,1,1,1,1,1,1,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",4,4,2,4,2,1,2,3,5,3,2,3,2,1,2,3
+100,21,Male,Central,Undergraduate incomplete,1,1,1,0,0,0,0,0,0,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,2,4,2,5,2,1,2,2,2,2,3,1,1,1,1
+101,24,Male,Central,High school diploma,1,0,1,1,0,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",2,3,2,2,2,5,2,3,3,2,2,2,2,2,2,2
+102,26,Male,Central,High school diploma,1,0,1,1,1,0,0,0,0,0,0,0,0,Full-time employment,Not sure,4,4,2,4,1,3,4,3,1,3,3,1,2,1,1,2
+103,26,Male,East,Undergraduate incomplete,1,1,1,1,1,1,0,1,0,1,1,0,0,Working student,Not sure,1,3,3,2,5,2,3,3,3,2,2,1,3,2,3,3
+104,19,Male,Central,High school diploma,1,1,1,1,0,1,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",3,2,4,1,5,1,1,1,2,2,2,1,1,1,1,1
+105,22,Male,Central,Undergraduate incomplete,1,1,1,1,0,1,0,1,1,0,1,0,0,Full-time employment,"Yes, with one brand",2,4,5,3,4,2,2,2,1,2,2,3,1,2,2,3
+106,24,Prefer not to say,Central,Undergraduate incomplete,1,0,1,0,0,0,0,0,0,0,1,0,0,Intern / Trainee,"Yes, with multiple brands",1,3,4,2,4,1,3,2,3,2,2,3,2,3,2,2
+107,24,Female,Central,Undergraduate incomplete,1,0,1,1,0,0,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",3,2,5,1,3,1,1,1,3,2,2,3,1,1,2,3
+108,23,Female,East,Undergraduate degree,1,1,1,1,0,0,1,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,3,3,3,5,3,2,3,3,3,2,5,1,1,1,2
+109,24,Female,Central,Undergraduate incomplete,1,0,1,0,0,0,0,0,1,0,0,0,0,Student (not employed),Not sure,3,3,2,3,2,2,5,3,5,3,2,3,3,3,2,5
+110,26,Male,South,Undergraduate degree,1,1,1,1,0,0,1,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",4,5,4,5,3,4,1,4,3,1,1,3,2,3,3,4
+111,23,Female,Central,Undergraduate incomplete,1,1,1,1,0,1,0,1,1,1,1,0,0,Working student,"Yes, with multiple brands",4,2,4,2,5,1,1,2,3,2,2,1,2,2,2,2
+112,24,Male,Central,Undergraduate incomplete,1,0,1,0,1,0,0,0,0,0,0,0,0,Working student,"Yes, with multiple brands",3,3,2,4,2,2,1,3,3,3,2,3,2,2,2,3
+113,23,Female,East,Undergraduate incomplete,1,1,1,1,1,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",2,2,4,2,5,2,1,3,3,2,2,3,1,1,1,3
+114,18,Female,Central,Undergraduate incomplete,1,1,1,1,0,1,0,0,0,0,0,0,0,Working student,"Yes, with one brand",3,4,3,5,4,3,2,3,3,2,2,2,2,2,2,3
+115,24,Female,Mainland,Undergraduate incomplete,1,1,1,1,1,0,0,1,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",1,2,5,1,5,1,1,1,2,2,2,1,1,3,1,3
+116,18,Female,Central,High school diploma,1,1,1,1,0,0,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",3,2,5,2,5,1,1,2,2,2,2,1,1,1,1,1
+117,18,Female,Central,High school diploma,1,1,1,0,0,0,0,0,1,1,0,0,0,Student (not employed),"Yes, with multiple brands",2,4,4,2,5,1,1,2,3,2,2,3,1,1,1,1
+118,18,Female,Central,High school diploma,0,0,1,1,0,0,0,0,1,0,0,0,0,Student (not employed),"Yes, with one brand",1,3,2,4,5,2,2,2,2,2,2,1,2,1,1,3
+119,19,Male,Central,Undergraduate incomplete,1,1,1,1,0,0,1,0,1,0,1,0,0,Student (not employed),No,1,3,4,5,2,1,3,3,2,2,2,3,1,1,1,1
+120,22,Female,Central,Undergraduate incomplete,1,0,1,1,0,0,0,0,0,0,1,0,0,Intern / Trainee,"Yes, with multiple brands",3,3,5,4,5,2,1,2,2,2,2,1,5,5,4,4
+121,18,Female,Central,Undergraduate incomplete,1,1,1,1,0,0,0,0,1,0,0,0,0,Working student,"Yes, with multiple brands",3,4,4,3,5,2,2,3,2,2,2,3,1,1,1,1
+122,18,Female,Central,High school diploma,1,1,1,1,0,0,0,0,1,0,0,0,0,Student (not employed),"Yes, with multiple brands",1,3,5,1,5,2,1,2,2,2,2,1,2,1,3,1
+123,24,Female,North,Postgraduate incomplete,1,1,1,0,0,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",5,3,5,3,5,1,1,2,3,2,2,1,1,1,1,1
+124,21,Female,Central,Postgraduate incomplete,1,1,1,1,0,0,0,1,1,0,1,0,0,Working student,"Yes, with multiple brands",4,5,4,5,4,3,3,3,3,3,2,3,4,5,3,4
+125,22,Female,Central,Undergraduate incomplete,1,1,1,1,0,1,0,1,1,0,0,0,0,Working student,"Yes, with multiple brands",3,1,5,1,5,1,1,1,2,2,2,3,1,2,2,3
+126,19,Male,North,Undergraduate incomplete,1,0,1,1,0,0,0,0,0,0,1,0,0,Working student,"Yes, with multiple brands",4,4,4,4,5,2,2,3,3,3,2,3,4,2,3,3
+127,25,Male,Mainland,Master’s degree,1,0,1,1,0,0,0,0,0,0,0,0,0,Working student,"Yes, with multiple brands",1,1,4,1,4,1,5,1,2,2,2,3,1,2,2,2
+128,28,Male,Central,Undergraduate degree,1,0,1,1,1,1,0,1,0,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,3,3,3,4,3,3,3,1,3,3,4,3,3,3,3
+129,27,Female,East,Undergraduate degree,1,0,1,1,0,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",3,4,4,3,4,1,2,3,2,3,2,1,3,3,3,3
+130,25,Female,East,Postgraduate incomplete,1,0,1,1,0,0,0,0,0,0,0,0,0,Student (not employed),"Yes, with multiple brands",5,1,5,1,5,1,1,1,2,2,2,2,2,2,2,2
+131,21,Female,Central,Undergraduate incomplete,1,0,1,1,0,1,0,0,0,0,1,0,0,Student (not employed),"Yes, with multiple brands",5,1,1,1,5,1,1,1,2,2,2,1,1,1,1,1
+132,24,Female,Central,Undergraduate incomplete,1,0,1,1,0,1,0,0,0,0,1,0,0,Intern / Trainee,"Yes, with multiple brands",3,4,2,4,3,3,1,3,1,3,2,3,1,1,1,1
+133,25,Female,Mainland,Undergraduate degree,1,1,1,1,0,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",2,1,5,1,5,1,2,1,3,2,2,3,5,2,2,5
+134,28,Female,Central,Undergraduate incomplete,1,1,1,1,1,1,1,0,0,0,0,0,0,Working student,"Yes, with multiple brands",2,2,4,1,4,1,1,2,2,2,2,1,1,1,1,2
+135,25,Male,South,Master’s incomplete,1,0,1,1,1,1,1,1,1,0,0,0,0,Working student,"Yes, with multiple brands",3,4,3,3,4,2,4,3,2,2,2,3,3,2,2,3
+136,18,Female,South,High school diploma,1,1,1,1,0,0,0,0,1,0,0,0,0,Working student,"Yes, with multiple brands",1,3,4,1,5,1,1,1,2,2,2,3,1,1,1,1
+137,28,Male,Mainland,Undergraduate incomplete,1,0,1,1,1,0,0,0,0,0,0,0,0,Full-time employment,"Yes, with multiple brands",2,3,4,2,5,3,1,2,3,2,2,1,1,1,1,2
+138,24,Non-binary,North,Undergraduate incomplete,1,1,1,1,0,1,0,1,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,2,4,2,4,1,2,2,3,2,2,1,2,2,2,2
+139,25,Female,Central,Postgraduate incomplete,1,1,1,1,0,1,0,0,0,0,1,0,0,Part-time employment,"Yes, with multiple brands",3,2,4,2,5,1,1,2,3,2,2,1,2,2,2,2
+140,19,Female,North,High school diploma,1,1,1,1,0,1,0,0,0,0,1,0,0,Intern / Trainee,"Yes, with multiple brands",2,2,4,1,5,1,1,1,2,2,2,3,1,1,1,1
+141,27,Female,North,Master’s degree,0,0,1,1,0,0,0,0,1,0,1,0,0,Unemployed (seeking work),"Yes, with multiple brands",2,2,5,1,5,3,1,3,3,2,3,3,1,1,1,1
+142,26,Female,North,Postgraduate degree,1,0,1,1,0,0,0,0,1,0,1,0,0,Full-time employment,Not sure,2,3,3,2,3,3,4,3,3,2,2,1,3,3,3,3
+143,21,Female,North,Undergraduate degree,1,1,0,1,0,0,1,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",4,2,4,1,4,1,2,2,3,2,2,3,1,2,2,2
+144,27,Male,East,Undergraduate incomplete,1,0,1,1,0,0,0,1,0,0,0,0,0,Working student,"Yes, with multiple brands",3,1,4,1,2,1,1,1,5,2,4,5,3,3,3,3
+145,26,Female,Central,Postgraduate degree,1,1,1,1,1,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",3,2,2,1,4,1,1,3,3,3,3,3,1,1,1,1
+146,27,Female,East,Postgraduate incomplete,1,1,1,1,0,0,0,0,1,0,0,0,0,Working student,"Yes, with multiple brands",1,1,5,1,5,1,1,1,3,2,3,3,1,1,1,1
+147,22,Female,Central,Undergraduate degree,1,1,1,1,0,1,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",4,1,5,1,5,1,1,1,2,2,2,1,2,2,2,2
+148,24,Female,East,Postgraduate incomplete,1,1,1,0,0,0,0,0,1,0,1,0,0,Full-time employment,"Yes, with multiple brands",4,3,2,4,5,3,1,3,2,2,3,1,3,1,1,3
+149,26,Female,Central,Master’s incomplete,1,1,1,1,0,0,0,0,0,0,0,0,0,Working student,"Yes, with multiple brands",5,1,5,1,5,1,1,1,2,2,2,2,2,2,2,2
+150,26,Male,Central,Undergraduate degree,1,1,1,1,1,0,0,0,0,0,1,0,0,Full-time employment,"Yes, with multiple brands",2,1,4,2,4,2,1,4,2,2,2,1,4,2,2,2
