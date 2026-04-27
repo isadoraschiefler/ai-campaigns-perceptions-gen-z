@@ -46,4 +46,6 @@ AI-mediated campaigns are associated with lower levels of perceived trust
 Visual experience evaluations for AI content are moderately negative
 A strong preference for human-centered interaction was observed
 
+The .omv file can be opened using Jamovi (https://www.jamovi.org) to reproduce the statistical analyses.
+
 For questions, contact via GitHub or email (isadoraschiefler@gmail.com).
